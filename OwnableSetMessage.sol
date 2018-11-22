@@ -88,3 +88,4 @@ contract MessageOfTheMoment is Ownable {
         
         message = _message;
     }
+ }
